@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Noel S Jacob</h1>
+<h3 align="center">Full-Stack Web developer | AI ML developer | Data Science Enthusiast</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/noelsjacob/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="noel" height="30" width="40" /></a>
+<a href="https://www.facebook.com/noel.sj.98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="noel" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14967379/noel-s-jacob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="noel" height="30" width="30" /></a>
+<a href="https://twitter.com/noelsjacob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
+<a href="https://instagram.com/noel_s_jacob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="noel" height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/noelsjacob2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="noel" height="30" width="40" /></a>
+ <a href = "mailto: noel.s.jacob2002@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
+</p>
+
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
@@ -11,20 +28,86 @@
   </a>
 </div>
 -->
+<h3 align="center">Languages and Tools:</h3>
 
-## My Statistics
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="center">Frameworks and Libraries:</h3>
+
+<p align="center">
+    <a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+</p>
+
+<h3 align="center">Software and Tools:</h3>
+
+<p align="center">
+    <a href="https://github.com/Bouaskaoun"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+</br>
+<p align="center">My Projects ✨:</p>
+  
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/robofriends">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/noelsj007/woocommerce-shipping-plugin-wp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=woocommerce-shipping-plugin-wp&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/noelsj007/noel_portfolio">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=noel_portfolio&theme=tokyonight" />
+</a>
+
+
+<h1 align="center">My Statistics</h1>
 
 <br/>
 <p align="left">
   <a href="https://noelsjacob.herokuapp.com/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=noelsj007&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=noelsj007&theme=gruvbox&hide_border=true" />
-    <center>
-   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+
+<p align="center"><img style="height:90%;width:45%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="Noel :: Top Langs" /></p>
+<!--     <center>
+   <img style="padding-left:30px;" align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/> -->
     </center>
   </a>
 </p>
 <br>
+
 
 [![Noel's Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Noel%20's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
@@ -32,12 +115,7 @@
 
 
 
-<p align="center">
-<a href="https://github.com/noelsj007">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
 <!-- <div>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </div>
