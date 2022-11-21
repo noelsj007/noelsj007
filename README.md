@@ -130,7 +130,7 @@
 <br>
 
 
-[![Noel's Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Noel%20's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Noel's Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Noel%20's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://noelsjacob.herokuapp.com)
 
 ------
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noelsj007&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
