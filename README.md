@@ -109,7 +109,7 @@
     <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
-<p align="center"><img style="height:90%;width:45%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="Noel :: Top Langs" /></p>
+<p align="center"><img style="height:90%;width:45%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelsj007&langs_count=10&theme=tokyonight&layout=compact" alt="Noel :: Top Langs" /></p>
 <!--     <center>
    <img style="padding-left:30px;" align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/> -->
     </center>
