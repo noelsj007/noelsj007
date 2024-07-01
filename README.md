@@ -15,15 +15,6 @@
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while CODING & RUSH!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/noelsjacob/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="noel" height="30" width="40" /></a>
-<a href="https://www.facebook.com/noel.sj.98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="noel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14967379/noel-s-jacob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="noel" height="30" width="30" /></a>
-<a href="https://twitter.com/noelsjacob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
-<a href="https://instagram.com/noel_s_jacob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="noel" height="30" width="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/noelsjacob2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="noel" height="30" width="40" /></a>
- <a href = "mailto: noel.s.jacob2002@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
 </p>
 
 
