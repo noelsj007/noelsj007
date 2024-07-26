@@ -15,14 +15,11 @@
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while CODING & RUSH!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
-</p>
 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## I'm a Programming Enthusiast As well as a Learner
-
----
 
 - 👨‍💻 I’m currently working on machine learning and data mining projects using python.
 - 📚 Learning everything about Frontend and Backend technologies 😅
@@ -130,5 +127,5 @@
   <a href="noel.jacob@mautourco.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="35" height="25" alt="microsoft-outlook logo"  />
   </a>
-</div>ss
+</div>
 
