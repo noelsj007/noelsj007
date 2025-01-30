@@ -51,8 +51,8 @@
 </br>
 <h2 align="center">My Projects ✨:</h2>
  <p align="center"> 
-<a href="https://github.com/noelsj007/woocommerce-shipping-plugin-wp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=woocommerce-shipping-plugin-wp&theme=tokyonight" />
+<a href="https://github.com/noelsj007/MelanomaCNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=MelanomaCNN&theme=tokyonight" />
 </a>
 <a href="https://github.com/noelsj007/wordpress-sendgrid-plugin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=wordpress-sendgrid-plugin&theme=tokyonight" />
