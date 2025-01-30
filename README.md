@@ -51,8 +51,8 @@
 </br>
 <h2 align="center">My Projects ✨:</h2>
  <p align="center"> 
-<a href="https://github.com/noelsj007/MelanomaCNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=MelanomaCNN&theme=tokyonight" />
+<a href="https://github.com/noelsj007/French-to-EnglishRNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=French-to-EnglishRNN&theme=tokyonight" />
 </a>
 <a href="https://github.com/noelsj007/kpass_project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=kpass_project&theme=tokyonight" />
