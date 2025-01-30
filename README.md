@@ -54,14 +54,14 @@
 <a href="https://github.com/noelsj007/MelanomaCNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=MelanomaCNN&theme=tokyonight" />
 </a>
-<a href="https://github.com/noelsj007/wordpress-sendgrid-plugin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=wordpress-sendgrid-plugin&theme=tokyonight" />
+<a href="https://github.com/noelsj007/kpass_project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=kpass_project&theme=tokyonight" />
 </a>
-<a href="https://github.com/noelsj007/noel_portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=noel_portfolio&theme=tokyonight" />
+<a href="https://github.com/noelsj007/LendingClubCaseStudy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=LendingClubCaseStudy&theme=tokyonight" />
 </a>
-<a href="https://github.com/noelsj007/ecommerceweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=ecommerceweb&theme=tokyonight" />
+<a href="https://github.com/noelsj007/TelecomChurnLogisticRegression">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noelsj007&repo=TelecomChurnLogisticRegression&theme=tokyonight" />
 </a>
 </p>
 
